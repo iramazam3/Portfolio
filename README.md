@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing software engineering experience, AI research, publications, and technical projects.
 
-Live Website: Coming Soon
+Website: https://iramazam-portfolio.vercel.app/
 
 ## Tech Stack
 

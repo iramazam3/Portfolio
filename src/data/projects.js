@@ -63,4 +63,25 @@ export const projects = [
     tech: ["Python", "LangChain", "Gemini", "FAISS", "RAG", "HuggingFace"],
     githubLink: "https://github.com/iramazam3/AI-Fitness-Nutrition-Assistant",
   },
+
+  {
+    badge: "Data Analytics Project",
+    title: "Catalyst: Business Intelligence Platform",
+    description:
+      "Developed a full-stack SaaS business intelligence platform to enable end-to-end management of customers, products, orders, and business analytics to support data-driven decision-making.",
+    metrics: [
+      "REST APIs supporting CRUD operations",
+      "Interactive analytics dashboard",
+      "Responsive React interface",
+    ],
+    tech: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Prisma",
+      "PostgreSQL",
+    ],
+    githubLink: "https://github.com/iramazam3/Business-Intelligence-Platform",
+  },
 ];
